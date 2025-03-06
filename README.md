@@ -10,7 +10,7 @@ mvn spring-boot:run
 http://localhost:8080/soma/1/2
 ```
 
-## Taget Folder
+## Target Folder
 
 Uma vez que você digitou o comando `mvn clean package` ele gerou um folder de nome target. Para rodar nesse formato, você deve digitar:
 
