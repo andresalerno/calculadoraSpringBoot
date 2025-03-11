@@ -1,3 +1,10 @@
+## Calculadora Rest Spring
+
+O principal objetivo desse repo é implementar os conhecimentos obtidos no curso de Desenvolvimento Web II do Professor Doutor Gerson da Penha Neto [link](http://lattes.cnpq.br/9441903297380731)
+
+
+## Memória de comandos
+
 ```java
 mvn clean package
 ```
